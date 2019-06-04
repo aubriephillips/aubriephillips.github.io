@@ -12,4 +12,10 @@ As Grace Hopper Said:
 - [ ] Item 3
 - [ ] Item 4
 
+First header | Second header | Third header
+------------ | ------------- | ------------
+Content cell 1 | Content cell 2 | Content cell 3
+Content column | Content column | Content column 
+*italic* | **bold** | _**Italic bold**_ 
+
 :+1: :boom: :rocket: :tada: 
