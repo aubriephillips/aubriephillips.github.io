@@ -19,3 +19,5 @@ Content column | Content column | Content column
 *italic* | **bold** | _**Italic bold**_ 
 
 :+1: :boom: :rocket: :tada: 
+
+![This is supposed to be a .gif](https://media.giphy.com/media/3ov9jLKyOVRKu6aAJW/giphy.gif)
